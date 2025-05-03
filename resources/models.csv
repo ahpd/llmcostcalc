@@ -1,0 +1,14 @@
+model,tokenizer_model,model_full,vendor,rt_input,rt_cached_input,rt_output,batch_input,batch_output
+gpt-4.1,cl100k_base,gpt-4.1-2025-04-14,openai,$2.0000,$0.5000,$8.0000,$1.0000,$4.0000
+gpt-4.1-mini,cl100k_base,gpt-4.1-mini-2025-04-14,openai,$0.4000,$0.1000,$1.6000,$0.2000,$0.8000
+gpt-4.1-nano,cl100k_base,gpt-4.1-nano-2025-04-14,openai,$0.1000,$0.0250,$0.4000,$0.0500,$0.2000
+gpt-4o,cl100k_base,gpt-4o-2024-08-06,openai,$2.5000,$1.2500,$10.0000,$1.2500,$5.0000
+gpt-4o-mini,cl100k_base,gpt-4o-mini-2024-07-18,openai,$0.1500,$0.0750,$0.6000,$0.0750,$0.3000
+o1,o200k_base,o1-2024-12-17,openai,$15.0000,$7.5000,$60.0000,$7.5000,$30.0000
+o1-pro,o200k_base,o1-pro-2025-03-19,openai,$150.0000,-,$600.0000,$75.0000,$300.0000
+o3,o200k_base,o3-2025-04-16,openai,$10.0000,$2.5000,$40.0000,$5.0000,$20.0000
+o4-mini,o200k_base,o4-mini-2025-04-16,openai,$1.1000,$0.2750,$4.4000,$0.5500,$2.2000
+o3-mini,o200k_base,o3-mini-2025-01-31,openai,$1.1000,$0.5500,$4.4000,$0.5500,$2.2000
+o1-mini,o200k_base,o1-mini-2024-09-12,openai,$1.1000,$0.5500,$4.4000,$0.5500,$2.2000
+gemini-2.0-flash,gemini-1.5-flash-002,Gemini 2.0 Flash,google,$0.1500,$0.1500,$0.6000,$0.0750,$0.3000
+gemini-2.0-flash-lite,gemini-1.5-flash-002,Gemini 2.0 Flash Lite,google,$0.0750,$0.0750,$0.3000,$0.0375,$0.1500
